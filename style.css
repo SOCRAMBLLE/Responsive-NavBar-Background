@@ -106,6 +106,7 @@ header {
 .section-two {
     height: 1500px;
     background-color: indianred;
+    padding-top: 70px;
 }
 
 .section-one,
